@@ -1,3 +1,4 @@
+sudo apt install figlet
 chmod 775 dbpwaudit.sh
 ln -vs /pentest/02/dbpwaudit/dbpwaudit.sh /usr/bin/dbpwaudit.sh
 ln -vs /pentest/02/dbpwaudit/dbpwaudit.sh /usr/bin/dbpwaudit
